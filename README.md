@@ -3,7 +3,7 @@ A Power BI dashboard analyzing coffee bean sales in Saudi Arabia (2023–2024). 
 
 What I found is:
 
-Quantity soled by product:
+Quantity sold by product:
 
 Costa Rica    4452
 Colombian     4072
